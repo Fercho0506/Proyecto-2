@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="google.code.gson">
+    <archive path="C:/Users/erik1/.m2/repository/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar" />
+    <archive path="C:/Users/erik1/.m2/repository/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar" />
+  </library>
+  <library name="bluecatcode.mockito.1.10.19.extended">
+    <archive path="C:/Users/erik1/.m2/repository/com/bluecatcode/mockito/mockito-1.10.19-extended/1.1.0/mockito-1.10.19-extended-1.1.0.jar" />
+    <archive path="C:/Users/erik1/.m2/repository/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar" />
+  </library>
+</eclipse-userlibraries>
+
